@@ -1,4 +1,4 @@
-# 🎉Hello,I'm Alex Lee.
+# 🎉Hello
 
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
     <img alt = "GitHub stats" src="https://github-readme-stats.vercel.app/api?username=olixn&count_private=true&show_icons=true&theme=radical">
